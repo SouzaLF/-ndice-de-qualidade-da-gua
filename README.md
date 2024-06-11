@@ -1,2 +1,2 @@
 # Índices de qualidade da água
-Índices de qualidade da água.
+- Os índices de qualidade da água são medidas essenciais para avaliar a pureza e a segurança dos recursos hídricos. Esses índices fornecem uma avaliação abrangente dos parâmetros físicos, químicos e biológicos da água, permitindo a identificação de potenciais riscos à saúde humana e ao meio ambiente. Compreender e monitorar esses índices é fundamental para garantir a proteção dos ecossistemas aquáticos, a saúde pública e o desenvolvimento sustentável.
